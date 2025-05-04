@@ -15,7 +15,7 @@ This project is part of a hardware/firmware challenge focused on:
 
 ---
 
-## 🧠 Design Highlights
+## Design Highlights
 
 - **Sensor Support**: Supports both Pt100 (100Ω @ 0°C) and Pt1000 (1000Ω @ 0°C) RTDs.
 - **SPI Interface**: Communicates with MAX31865 via hardware SPI.
@@ -25,7 +25,7 @@ This project is part of a hardware/firmware challenge focused on:
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 | File             | Description |
 |------------------|-------------|
@@ -35,7 +35,7 @@ This project is part of a hardware/firmware challenge focused on:
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.x
 - Linux SBC (e.g., Raspberry Pi)
